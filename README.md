@@ -8,3 +8,4 @@ Just this. ThanksU and Enjoy
 - React JS
 - animate.css
 - gsap.trial
+- and more... # Slow dude, this list am show you whats am using
