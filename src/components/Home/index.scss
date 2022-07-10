@@ -5,7 +5,7 @@
         left: 15%;
         top: 50%;
         transform: translateY(-50%);
-        width: 40%;
+        width: 70%;
         max-height: 90%;
         line-height: 1.5;
     }
@@ -14,7 +14,7 @@
         color: azure;
         font-size: 48px;
         margin: 0;
-        font-weight: 400;
+        font-weight: bold;
         
         img {
             width: 100px;
@@ -33,13 +33,14 @@
         font-size: 11px;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         letter-spacing: 3px;
+        font-weight: bold;
         animation: fadeIn 1s 1.8s backwards;
     }
 
     .flat-button {
         color: #F563BD;
         font-size: 13px;
-        font-weight: 400;
+        font-weight: bold;
         letter-spacing: 4px;
         font-family: sans-serif;
         text-decoration: none;
